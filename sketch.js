@@ -1,7 +1,7 @@
 let font;
 let textPoints = [];
 let particles = [];
-let txt = "小孟";
+let txt = "风是自由的";
 let fontSize = 150;
 let inputBox; // 添加输入框变量
 
